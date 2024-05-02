@@ -240,7 +240,7 @@ module.exports.login = async (req, res, next) => {
          // Create mailjet send emal
          const mailjet = Mailjet.apiConnect(process.env.MAILJET_APIKEY, process.env.MAILJET_SECRETKEY
          )
-
+////k
          const request = await mailjet.post("send", { 'version': 'v3.1' })
             .request({
                "Messages": [
