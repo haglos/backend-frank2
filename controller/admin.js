@@ -296,8 +296,8 @@ module.exports.updateUser = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "metrobss@metrobss.com",
-                        "Name": "metrobss"
+                        "Email": "fargoremit@fargoremit.com",
+                        "Name": "fargoremit"
                      },
 
 
@@ -453,8 +453,8 @@ module.exports.updateHistory = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "metrobss@metrobss.com",
-                        "Name": "metrobss"
+                        "Email": "fargoremit@fargoremit.com",
+                        "Name": "fargoremit"
                      },
                      "To": [
                         {
@@ -518,8 +518,8 @@ module.exports.sendEmail = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "metrobss@metrobss.com",
-                     "Name": "metrobss"
+                     "Email": "fargoremit@fargoremit.com",
+                     "Name": "fargoremit"
 
                   },
                   "To": [
@@ -623,8 +623,8 @@ module.exports.createAccounts = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "metrobss@metrobss.com",
-                     "Name": "metrobss"
+                     "Email": "fargoremit@fargoremit.com",
+                     "Name": "fargoremit"
                   },
                   "To": [
                      {
@@ -822,8 +822,8 @@ module.exports.credit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "metrobss@metrobss.com",
-                     "Name": "metrobss"
+                     "Email": "fargoremit@fargoremit.com",
+                     "Name": "fargoremit"
                   },
                   "To": [
                      {
@@ -949,8 +949,8 @@ module.exports.debit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "metrobss@metrobss.com",
-                     "Name": "metrobss"
+                     "Email": "fargoremit@fargoremit.com",
+                     "Name": "fargoremit"
                   },
                   "To": [
                      {
@@ -1078,8 +1078,8 @@ module.exports.updateLoan = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "metrobss@metrobss.com",
-                        "Name": "metrobss"
+                        "Email": "fargoremit@fargoremit.com",
+                        "Name": "fargoremit"
                      },
                      "To": [
                         {
@@ -1198,8 +1198,8 @@ module.exports.updateCard = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "metrobss@metrobss.com",
-                        "Name": "metrobss"
+                        "Email": "fargoremit@fargoremit.com",
+                        "Name": "fargoremit"
                      },
                      "To": [
                         {
@@ -1287,8 +1287,8 @@ module.exports.updateCard = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "metrobss@metrobss.com",
-                     "Name": "metrobss"
+                     "Email": "fargoremit@fargoremit.com",
+                     "Name": "fargoremit"
                   },
                   "To": [
                      {
